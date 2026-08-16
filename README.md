@@ -83,4 +83,4 @@ telegram reverse, telegram decompile, telegram source code, telegram encryption
 
 <h2>Contact</h2>
 
-<p> <b>Telegram:</b> <a href="https://t.me/@nullcodss">https://t.me/nullcodss</a></p>
+<p> <b>Telegram:</b> <a href="https://t.me/@nullcods">https://t.me/nullcods</a></p>
